@@ -1,0 +1,7 @@
+C:\Users\yliu\source\repos\ASP\FilesComparison\FilesComparison\bin\Debug\FilesComparison.exe.config
+C:\Users\yliu\source\repos\ASP\FilesComparison\FilesComparison\bin\Debug\FilesComparison.exe
+C:\Users\yliu\source\repos\ASP\FilesComparison\FilesComparison\bin\Debug\FilesComparison.pdb
+C:\Users\yliu\source\repos\ASP\FilesComparison\FilesComparison\obj\Debug\FilesComparison.csprojResolveAssemblyReference.cache
+C:\Users\yliu\source\repos\ASP\FilesComparison\FilesComparison\obj\Debug\FilesComparison.csproj.CoreCompileInputs.cache
+C:\Users\yliu\source\repos\ASP\FilesComparison\FilesComparison\obj\Debug\FilesComparison.exe
+C:\Users\yliu\source\repos\ASP\FilesComparison\FilesComparison\obj\Debug\FilesComparison.pdb
